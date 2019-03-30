@@ -8,3 +8,6 @@ If there are any problems once you boot the game and refresh your skin and reloa
 That's easy fixed though, open the XML in notepad and just edit the obviously long number with the right one. I think it's right though.
 
 After that .. it should all be done.
+
+
+In case Github freaks you out, all you need to do is click on the green button, and download zip. :)
